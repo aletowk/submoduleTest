@@ -1,6 +1,6 @@
 
-def submodule_NewFunction():
-	print("1+2 = ",1+2)
+def submodule_NewFunction(a,b):
+	print(a," + ",b," = ",a+b)
 
 def MySubmoduleFunction():
 	print("This is my submodule function !!!")
